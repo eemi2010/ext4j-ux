@@ -1,4 +1,4 @@
-package com.eemi.extj.ux.notification.client;
+package com.eemi.ext4j.ux.notification.client;
 
 import com.eemi.ext4j.client.core.JsObject;
 import com.eemi.ext4j.client.core.JsoHelper;

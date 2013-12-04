@@ -1,4 +1,4 @@
-package com.eemi.extj.ux.app.client;
+package com.eemi.ext4j.ux.app.client;
 
 import com.google.gwt.user.client.rpc.RemoteService;
 import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;

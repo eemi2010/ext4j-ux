@@ -1,4 +1,4 @@
-package com.eemi.extj.ux.app.shared;
+package com.eemi.ext4j.ux.app.shared;
 
 /**
  * <p>

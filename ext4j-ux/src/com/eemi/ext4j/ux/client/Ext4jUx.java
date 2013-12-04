@@ -1,4 +1,4 @@
-package com.eemi.extj.ux.client;
+package com.eemi.ext4j.ux.client;
 
 public interface Ext4jUx {
     public void injectUx();

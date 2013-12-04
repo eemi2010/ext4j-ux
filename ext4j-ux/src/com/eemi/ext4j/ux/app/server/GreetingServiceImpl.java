@@ -1,7 +1,7 @@
-package com.eemi.extj.ux.app.server;
+package com.eemi.ext4j.ux.app.server;
 
-import com.eemi.extj.ux.app.client.GreetingService;
-import com.eemi.extj.ux.app.shared.FieldVerifier;
+import com.eemi.ext4j.ux.app.client.GreetingService;
+import com.eemi.ext4j.ux.app.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 /**
