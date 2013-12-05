@@ -21,10 +21,6 @@ public class Portal extends Panel {
 
     private DropTargetConfig ddConfig;
 
-    static {
-
-    }
-
     public Portal() {
         ddConfig = new DropTargetConfig();
         setLayout(Layout.COLUMN);
@@ -39,7 +35,7 @@ public class Portal extends Panel {
 
     }
 
-    public static void injectPlugin() {
+    public static void inject() {
         ScriptInjector.fromUrl(GWT.getModuleBaseURL() + "portal/PortalDropZone.js")
                         .setWindow(ScriptInjector.TOP_WINDOW).inject();
     }
