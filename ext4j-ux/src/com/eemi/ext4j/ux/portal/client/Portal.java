@@ -11,7 +11,7 @@ import com.google.gwt.core.client.ScriptInjector;
 /**
  * Portal class. A portal is created by instantiating this class, and adding
  * {@link PortalColumn}'s with a specified
- * {@link com.gwtext.client.widgets.layout.ColumnLayoutData}.
+ * {@link com.eemi.ext4j.client.layout.ColumnLayoutData}.
  * 
  * <br>
  * To each PortalColumn, a Portlet is added.
