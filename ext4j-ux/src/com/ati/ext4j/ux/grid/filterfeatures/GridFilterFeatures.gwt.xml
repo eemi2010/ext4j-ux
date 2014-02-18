@@ -1,0 +1,14 @@
+<module>
+    <inherits name='com.ati.ext4j.Ext'/>
+     <!-- script src="Filter.js"/>
+      <script src="RangeMenu.js"/>
+      <script src="ListMenu.js"/>
+      <script src="NumericFilter.js"/>
+      <script src="BooleanFilter.js"/>
+      <script src="DateFilter.js"/>
+      <script src="ListFilter.js"/>
+      <script src="StringFilter.js"/>
+      <script src="FilterFeatures.js"/-->
+      
+       <!-- stylesheet src="GridFilter.css"/-->
+</module>

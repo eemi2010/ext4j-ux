@@ -1,0 +1,4 @@
+<module>
+    <inherits name='com.ati.ext4j.Ext'/>
+    <!-- script src="PagingMemoryProxy.js"/-->
+ </module>
