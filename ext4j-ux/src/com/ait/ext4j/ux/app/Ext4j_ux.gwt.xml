@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  When updating your version of GWT, you should also update this DTD reference,
+  so that your app can take advantage of the latest GWT module capabilities.
+-->
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.5.0//EN"
+  "http://google-web-toolkit.googlecode.com/svn/tags/2.5.0/distro-source/core/src/gwt-module.dtd">
+<module rename-to='ext4j_ux'>
+  <!-- Inherit the core Web Toolkit stuff.                        -->
+  <inherits name='com.ait.ext4j.Ext'/>
+
+  <!-- Specify the app entry point class.                         -->
+  <entry-point class='com.ait.extj.ux.app.client.Ext4jUx'/>
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path='client'/>
+  <source path='shared'/>
+
+</module>

@@ -1,4 +1,0 @@
-<module>
-    <inherits name='com.ati.ext4j.Ext'/>
-     <!--  script src="CheckColumn.js"/-->
-</module>

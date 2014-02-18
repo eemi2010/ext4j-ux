@@ -1,7 +1,0 @@
-<module>
-     <inherits name='com.ati.ext4j.Ext'/>
-     <!--  script src="PortalColumn.js"/>
-    <script src="PortalDropZone.js"/>
-    <script src="PortalPanel.js"/-->
-     <stylesheet src="portal/Portal.css" />
- </module>
