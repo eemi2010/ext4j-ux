@@ -1,4 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <module>
-    <inherits name='com.ait.ext4j.Ext'/>
-    <!-- script src="PagingMemoryProxy.js"/-->
+    <script src="pagingmemory/PagingMemoryProxy.js"/>
  </module>

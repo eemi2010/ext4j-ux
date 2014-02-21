@@ -1,4 +1,4 @@
-package com.ait.ext4j.ux.centerlayout.client;
+package com.ait.ext4j.ux.layout.center.client;
 
 import com.ait.ext4j.client.layout.ContainerLayout;
 import com.ait.ext4j.client.layout.FitLayout;

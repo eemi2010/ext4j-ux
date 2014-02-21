@@ -1,14 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <module>
-    <inherits name='com.ait.ext4j.Ext'/>
-     <!-- script src="Filter.js"/>
-      <script src="RangeMenu.js"/>
-      <script src="ListMenu.js"/>
-      <script src="NumericFilter.js"/>
-      <script src="BooleanFilter.js"/>
-      <script src="DateFilter.js"/>
-      <script src="ListFilter.js"/>
-      <script src="StringFilter.js"/>
-      <script src="FilterFeatures.js"/-->
+    
+     <script src="gridfilter/Filter.js"/>
+      <script src="gridfilter/RangeMenu.js"/>
+      <script src="gridfilter/ListMenu.js"/>
+      <script src="gridfilter/NumericFilter.js"/>
+      <script src="gridfilter/BooleanFilter.js"/>
+      <script src="gridfilter/DateFilter.js"/>
+      <script src="gridfilter/ListFilter.js"/>
+      <script src="gridfilter/StringFilter.js"/>
+      <script src="gridfilter/FilterFeatures.js"/>
       
-       <!-- stylesheet src="GridFilter.css"/-->
+       <stylesheet src="gridfilter/GridFilter.css"/>
 </module>

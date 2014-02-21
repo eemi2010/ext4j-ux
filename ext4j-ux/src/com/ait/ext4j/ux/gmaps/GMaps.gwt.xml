@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module>
-    <inherits name='com.ait.ext4j.Ext'/>
-    <!-- script src="GMapPanel.js"/-->
+    <script src="GMapPanel.js"/>
  </module>

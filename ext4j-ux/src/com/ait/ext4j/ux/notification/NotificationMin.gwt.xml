@@ -41,6 +41,4 @@ body .ux-notification-light {
 Then set the cls property to 'ux-notification-light'. Note that this styling differs a bit between new browsers and >=IE8.
  
  -->
-    <stylesheet src="notification/notification.css"/>
-     <stylesheet src="notification/Notification.js"/>
  </module>
